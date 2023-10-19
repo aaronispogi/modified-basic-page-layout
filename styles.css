@@ -12,6 +12,7 @@ padding: 20px;
 }
 
 .wrap {
+border: 1px solid;
 background-color: #dfc951;
 max-width: 800px;
 padding-top: 1px;
@@ -72,10 +73,11 @@ padding: 20px;
 }
 
 aside {
-    background-color: orange;
-    width: 415px;
-    height: 921px;
-    float: right;
-    text-align: center;
-    font-size: 100px;
+border: 1px solid;
+background-color: orange;
+width: 415px;
+height: 921px;
+float: right;
+text-align: center;
+font-size: 100px;
 }
